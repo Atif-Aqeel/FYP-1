@@ -1,4 +1,5 @@
 # FYP-1
-## Final Year Project - 1 
-### School Management System
+## Final Year Project | PUCIT
+### School Management System | SMS
+### PUCIT - Punjab University College of Information Technology
 ### Documentation
